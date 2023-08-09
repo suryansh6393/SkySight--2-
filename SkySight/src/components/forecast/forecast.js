@@ -1,13 +1,4 @@
 import React from "react";
-// import {
-//   Accordion,
-//   AccordionItem,
-//   AccordionItemHeading,
-//   AccordionItemButton,
-//   AccordionItemPanel,
-// } from "react-accessible-accordion";
-
-
 import "./forecast.css";
 import { Accordion} from 'react-bootstrap';
 import "bootstrap/dist/css/bootstrap.min.css";
